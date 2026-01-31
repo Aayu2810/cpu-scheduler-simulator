@@ -2,7 +2,7 @@
 
 A comprehensive, production-grade CPU scheduling simulator with I/O operations, multi-level queues, and real-time performance analysis. Built with pure HTML/CSS/JavaScript - no frameworks needed!
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success)](https://YOUR_USERNAME.github.io/cpu-scheduler-simulator/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success)](https://Aayu2810.github.io/cpu-scheduler-simulator/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## ✨ Features
