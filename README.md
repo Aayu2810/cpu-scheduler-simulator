@@ -30,7 +30,7 @@ A comprehensive, production-grade CPU scheduling simulator with I/O operations, 
 ## 📸 Screenshots
 
 ### Gantt Chart View
-![Gantt Chart](Grantt Chart.png)
+![Gantt Chart](assets/granttcharts.png)
 
 ### Process State Timeline
 ![States](assets/states.png)
