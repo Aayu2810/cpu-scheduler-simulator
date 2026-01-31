@@ -25,7 +25,7 @@ A comprehensive, production-grade CPU scheduling simulator with I/O operations, 
 
 ## 🚀 Live Demo
 
-**[Try it here!](https://YOUR_USERNAME.github.io/cpu-scheduler-simulator/)**
+**[Try it here!](https://Aayu2810.github.io/cpu-scheduler-simulator/)**
 
 ## 📸 Screenshots
 
